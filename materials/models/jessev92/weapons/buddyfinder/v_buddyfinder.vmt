@@ -1,0 +1,12 @@
+
+VertexLitGeneric
+{
+
+	$basetexture		models/jessev92/weapons/buddyfinder/v_buddyfinder
+	$bumpmap			dev/bump_normal
+
+	$halflambert		1
+	$ambientocclusion	1
+	$selfillum			1
+	
+}

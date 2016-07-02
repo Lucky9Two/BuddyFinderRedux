@@ -1,0 +1,15 @@
+"AddonInfo"
+{
+	"name" "Buddy Finder Redux"
+	"author_name" "Author Name"
+	"info" "
+{
+	"description": "Description",
+	"type": "weapon",
+	"tags": 
+	[
+		"roleplay",
+		"fun"
+	]
+}"
+}

@@ -1,0 +1,14 @@
+Version 1.1
+-----------
+* Viewmodel improvements courtesy of Cerebrate (http://www.facepunch.com/member.php?u=112308)
+* Fixed disappearing Laser Placement box/can't teleport on large maps bug
+* Tested to be working with maps as large as gm_construct_flatgrass_v5 and even gm_mobenix_v3_final!
+* Added basic Private Message function
+* Fixed contact list showing non-BuddyFinder players
+* Fixed aimpos spam bug (the laser placement box is now destroyed with the SWEP) - this should fix any issues related to the laser placement box sticking around when it is not meant to
+* Added spawnmenu icon
+* Other minor fixes/improvements
+
+Version 1.0
+-----------
+* Initial Release

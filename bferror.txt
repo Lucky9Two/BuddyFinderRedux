@@ -1,0 +1,94 @@
+
+[ERROR] lua/includes/modules/draw.lua:144: 'BuddyFinderHUDIcon' isn't a valid font
+
+  1. SetFont - [C]:-1
+   2. DrawText - lua/includes/modules/draw.lua:144
+    3. v - addons/swep_buddy_finder/lua/autorun/operator.lua:157
+     4. unknown - lua/includes/modules/hook.lua:82
+
+Attack: Teleport
+Animating: 563
+LaserBox ENT:OnRemove()
+Player [1][Lucky9Two] received call info table: 0x291e9960
+
+[ERROR] addons/swep_buddy_finder/lua/weapons/util_buddyfinder/init.lua:80: bad argument #1 to 'ViewPunch' (Angle expected, got userdata)
+  1. ViewPunch - [C]:-1
+   2. DoTeleport - addons/swep_buddy_finder/lua/weapons/util_buddyfinder/init.lua:80
+    3. ReceiveBuddyCallInfo - addons/swep_buddy_finder/lua/weapons/util_buddyfinder/init.lua:255
+     4. SendBuddyCallInfo - addons/swep_buddy_finder/lua/weapons/util_buddyfinder/init.lua:298
+      5. SetTeleportLocation - addons/swep_buddy_finder/lua/weapons/util_buddyfinder/init.lua:264
+       6. unknown - addons/swep_buddy_finder/lua/entities/buddy_finder_tpg/init.lua:66
+
+Attack: Teleport
+Animating: 563
+
+[ERROR] addons/swep_buddy_finder/lua/weapons/util_buddyfinder/init.lua:389: Tried to use a NULL entity!
+  1. Remove - [C]:-1
+   2. DoPlaceBox - addons/swep_buddy_finder/lua/weapons/util_buddyfinder/init.lua:389
+    3. unknown - addons/swep_buddy_finder/lua/weapons/util_buddyfinder/init.lua:398
+
+Attack: Teleport
+Animating: 563
+
+[ERROR] addons/swep_buddy_finder/lua/weapons/util_buddyfinder/init.lua:389: Tried to use a NULL entity!
+  1. Remove - [C]:-1
+   2. DoPlaceBox - addons/swep_buddy_finder/lua/weapons/util_buddyfinder/init.lua:389
+    3. unknown - addons/swep_buddy_finder/lua/weapons/util_buddyfinder/init.lua:398
+
+Attack: Teleport
+Animating: 563
+
+[ERROR] addons/swep_buddy_finder/lua/weapons/util_buddyfinder/init.lua:389: Tried to use a NULL entity!
+  1. Remove - [C]:-1
+   2. DoPlaceBox - addons/swep_buddy_finder/lua/weapons/util_buddyfinder/init.lua:389
+    3. unknown - addons/swep_buddy_finder/lua/weapons/util_buddyfinder/init.lua:398
+
+Screenshot Requested
+Attack: Teleport
+Animating: 563
+
+[ERROR] addons/swep_buddy_finder/lua/weapons/util_buddyfinder/init.lua:389: Tried to use a NULL entity!
+  1. Remove - [C]:-1
+   2. DoPlaceBox - addons/swep_buddy_finder/lua/weapons/util_buddyfinder/init.lua:389
+    3. unknown - addons/swep_buddy_finder/lua/weapons/util_buddyfinder/init.lua:398
+
+Attack: Teleport
+Animating: 563
+
+[ERROR] addons/swep_buddy_finder/lua/weapons/util_buddyfinder/init.lua:389: Tried to use a NULL entity!
+  1. Remove - [C]:-1
+   2. DoPlaceBox - addons/swep_buddy_finder/lua/weapons/util_buddyfinder/init.lua:389
+    3. unknown - addons/swep_buddy_finder/lua/weapons/util_buddyfinder/init.lua:398
+
+Attack: Teleport
+Animating: 563
+
+[ERROR] addons/swep_buddy_finder/lua/weapons/util_buddyfinder/init.lua:389: Tried to use a NULL entity!
+  1. Remove - [C]:-1
+   2. DoPlaceBox - addons/swep_buddy_finder/lua/weapons/util_buddyfinder/init.lua:389
+    3. unknown - addons/swep_buddy_finder/lua/weapons/util_buddyfinder/init.lua:398
+
+Attack: Dial
+Animating: 181
+Animating: 570
+Attack: Teleport
+Animating: 563
+
+[ERROR] addons/swep_buddy_finder/lua/weapons/util_buddyfinder/init.lua:389: Tried to use a NULL entity!
+  1. Remove - [C]:-1
+   2. DoPlaceBox - addons/swep_buddy_finder/lua/weapons/util_buddyfinder/init.lua:389
+    3. unknown - addons/swep_buddy_finder/lua/weapons/util_buddyfinder/init.lua:398
+
+[ERROR] addons/swep_buddy_finder/lua/weapons/util_buddyfinder/init.lua:416: Tried to use a NULL entity!
+  1. Remove - [C]:-1
+   2. unknown - addons/swep_buddy_finder/lua/weapons/util_buddyfinder/init.lua:416
+
+   [ERROR] addons/swep_buddy_finder/lua/weapons/util_buddyfinder/init.lua:359: Tried to use a NULL entity!
+  1. Start - [C]:-1
+   2. PopulatePhonePlayerList - addons/swep_buddy_finder/lua/weapons/util_buddyfinder/init.lua:359
+    3. DelayedContacts - addons/swep_buddy_finder/lua/weapons/util_buddyfinder/init.lua:382
+     4. callWhenDone - addons/swep_buddy_finder/lua/weapons/util_buddyfinder/init.lua:406
+      5. unknown - addons/swep_buddy_finder/lua/weapons/util_buddyfinder/init.lua:162
+
+Timer Failed! [Simple][@addons/swep_buddy_finder/lua/weapons/util_buddyfinder/init.lua (line 162)]
+E

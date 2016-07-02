@@ -1,0 +1,13 @@
+"AddonInfo"
+{
+	"name"	"Buddy Finder"
+	"version"	"1.1"
+	"up_date"	""
+	"author_name"	"ancientevil"
+	"author_email"	""
+	"author_url"	"www.facepunch.com"
+	
+	"info"	"Getting lost on large maps?  Can't find your mate's contraption? Queue BuddyFinder!"
+	
+	"override"	"0"
+}

@@ -1,0 +1,18 @@
+{
+	"title"		:	"Buddy Finder Redux",
+	"type"		:	"weapon",
+	"tags"		:	[ "roleplay", "fun" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*",
+		"*.txt*",
+		"*.dua*",
+		"*.ztmp*",
+		"*.jpg*",
+		"*.bmp*",
+		"*.vtf_bak*",
+		"*.tga*"
+	]
+}
